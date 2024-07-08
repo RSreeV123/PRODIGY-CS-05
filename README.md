@@ -11,7 +11,7 @@ This Python script utilizes Scapy to sniff network packets and log details into 
 
 1. Clone the repository:
    ```bash
-   git clone  https://github.com/godfrey-bn/PRODIGY-CS-05.git
+   git clone  https://github.com/RSreeV123/PRODIGY-CS-05.git
    ```
 2. Install required dependencies:
    ```bash
